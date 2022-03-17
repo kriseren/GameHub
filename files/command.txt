@@ -1,0 +1,1 @@
+clear && javac -d bin/ -cp jar/games.jar src/gameHub/* && java -cp jar/games.jar:bin gameHub.gameHub
